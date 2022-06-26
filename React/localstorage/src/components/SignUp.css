@@ -1,0 +1,17 @@
+
+
+.form{
+    text-align: center;
+    padding: 20px;
+    width: fit-content;
+    border: 1px dotted gray;
+    position: relative;
+    margin-left: 40%;
+    margin-top: 10vh;
+    box-shadow: 2px 2px gray;
+}
+
+.formInput{
+    display: block;
+    margin: 10px auto;
+}
